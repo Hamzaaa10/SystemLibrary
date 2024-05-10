@@ -1,0 +1,14 @@
+C:\Users\Hamza\source\repos\Systemlibrary\Systemlibrary\bin\Debug\net8.0\Systemlibrary.exe
+C:\Users\Hamza\source\repos\Systemlibrary\Systemlibrary\bin\Debug\net8.0\Systemlibrary.deps.json
+C:\Users\Hamza\source\repos\Systemlibrary\Systemlibrary\bin\Debug\net8.0\Systemlibrary.runtimeconfig.json
+C:\Users\Hamza\source\repos\Systemlibrary\Systemlibrary\bin\Debug\net8.0\Systemlibrary.dll
+C:\Users\Hamza\source\repos\Systemlibrary\Systemlibrary\bin\Debug\net8.0\Systemlibrary.pdb
+C:\Users\Hamza\source\repos\Systemlibrary\Systemlibrary\obj\Debug\net8.0\Systemlibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza\source\repos\Systemlibrary\Systemlibrary\obj\Debug\net8.0\Systemlibrary.AssemblyInfoInputs.cache
+C:\Users\Hamza\source\repos\Systemlibrary\Systemlibrary\obj\Debug\net8.0\Systemlibrary.AssemblyInfo.cs
+C:\Users\Hamza\source\repos\Systemlibrary\Systemlibrary\obj\Debug\net8.0\Systemlibrary.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\Systemlibrary\Systemlibrary\obj\Debug\net8.0\Systemlibrary.dll
+C:\Users\Hamza\source\repos\Systemlibrary\Systemlibrary\obj\Debug\net8.0\refint\Systemlibrary.dll
+C:\Users\Hamza\source\repos\Systemlibrary\Systemlibrary\obj\Debug\net8.0\Systemlibrary.pdb
+C:\Users\Hamza\source\repos\Systemlibrary\Systemlibrary\obj\Debug\net8.0\Systemlibrary.genruntimeconfig.cache
+C:\Users\Hamza\source\repos\Systemlibrary\Systemlibrary\obj\Debug\net8.0\ref\Systemlibrary.dll
